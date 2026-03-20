@@ -1,0 +1,9 @@
+{
+  "name": "BIG MARKET HUB",
+  "description": "A premium, royal-branded multi-vendor e-commerce platform for the Rwandan domestic market featuring the D-Crown signature identity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
